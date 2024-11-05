@@ -4,7 +4,7 @@ import './App.css'
 
 const options = [
   'Personal',
-  'World',
+  'Work',
   'Shopping'
 ]
 
